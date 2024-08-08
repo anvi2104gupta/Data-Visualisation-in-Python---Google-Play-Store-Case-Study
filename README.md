@@ -1,1 +1,3 @@
 # Data-Visualisation-in-Python---Google-Play-Store-Case-Study
+
+In this project, I analyzed data from the Google Play Store to identify the key features that contribute to an app's success. The goal was to determine whether factors such as app size, price, and the number of installs correlate with higher ratings and overall app performance. Using Python libraries like NumPy, Pandas, Matplotlib, and Seaborn, I conducted a thorough exploration and visualization of the data, providing insights that could guide the development of a feature aimed at boosting the visibility of the most promising apps on the platform.
